@@ -11,7 +11,8 @@ export default function Home() {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>I am undergraduate CS student👨‍🎓 and also a programmer👨🏻‍💻</p>
-        <center><a href="https://github.com/tanishq-soni">GitHub</a></center>
+        <center><a href="https://github.com/tanishq-soni">GitHub</a><br></br>
+        <br></br>📧 : <a href="mailto:hi@tanishqsoni.me">hi@tanishqsoni.me</a></center>
       </section>
     </Layout>
   )
