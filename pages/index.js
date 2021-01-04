@@ -22,9 +22,6 @@ export default function Home() {
           <script src="https://webring.hackclub.com/public/embed.min.js"></script>
         </div>
          </center>
-        {/* <footer>
-          <p>copyright 2021</p>
-        </footer> */}
       </section>
     </Layout>
   )
