@@ -13,6 +13,7 @@ export default function Home() {
         <p>I am undergraduate CS student👨‍🎓 and also a programmer👨🏻‍💻</p>
         <center><a href="https://github.com/tanishq-soni">GitHub</a><br></br>
         <br></br>📧 : <a href="mailto:hi@tanishqsoni.me">hi@tanishqsoni.me</a></center>
+        <center><br></br>☕ : <a href="https://www.buymeacoffee.com/tanishqsoni">buy me a coffee</a></center>
       </section>
     </Layout>
   )
