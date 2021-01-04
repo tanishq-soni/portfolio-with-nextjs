@@ -21,7 +21,7 @@ export default function Home() {
           <a href="https://webring.hackclub.com/" id="nextBtn" class="webring-anchor" title="Next">›</a>
           <script src="https://webring.hackclub.com/public/embed.min.js"></script>
         </div>
-         </center>
+        </center>
       </section>
     </Layout>
   )
